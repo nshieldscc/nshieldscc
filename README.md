@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nshieldscc
-- 👀 I’m interested in business and data analytics. 
-- 🌱 I’m currently learning economics at Colorado College. 
+- 👀 I’m interested in product management, business, and data analytics. 
+- 🌱 I’m currently learning economics and data science at Colorado College. 
 - 📫 How to reach me n_shields@coloradocollege.edu
 
 <!---
